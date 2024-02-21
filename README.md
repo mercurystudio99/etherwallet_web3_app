@@ -61,23 +61,6 @@ To process transactions on the network, you will also need coins to pay the tran
 - Polygon (old MATIC): [https://faucet.polygon.technology/](https://faucet.polygon.technology/)
 - BSC: [https://testnet.binance.org/faucet-smart](https://testnet.binance.org/faucet-smart)
 
-### The smart contract
-
-Link for the smart contract used for this project [https://github.com/allanclempe/ether-wallet-contract](https://github.com/allanclempe/ether-wallet-contract)
-
-### Buy me a coffee
-
-If you enjoy my work, a small donation would be greatly appreciated.
-
-|                                    BTC                                     |                                     ETH                                      |
-| :------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-| <img src="https://faucet.clempe.dev/images/btc-address.png" width="150" /> | <img src="https://faucet.clempe.dev/images/eth-address.png"  width="150"  /> |
-| bc1qkvjec6dhr94jvlvqqjpuv7n3vz8j0h89nle6n3 | 0xE4B2ca20D15109b0a2Eef933678C496A1a798173 |
-
-### License
-
-Copyright © 2019-present Allan Clempe. This source code is licensed under the MIT license found in the [LICENSE.txt](https://github.com/allanclempe/ether-wallet-flutter/blob/master/LICENSE.txt) file.
-
 ---
 
-dart wallet cryto flutter eth smart contracts - by [Allan Clempe](https://twitter.com/aclempe)
+dart wallet cryto flutter eth smart contracts
